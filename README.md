@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sumit Adhikari
 - 👀 I’m interested in Web Development(Full Stack),App Development,UI/UX Designs and some bit of video editing
-- 🌱 I’m currently studing In 2nd year
+- 🌱 I’m currently studiyng In 2nd year
 - 📫 How to reach me connectwithsumit58@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Coders speak multiple "Languages"
