@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumit Adhikari</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
+<img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" height=47% width=47% align="right">
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1514097/screenshots/5687494/media/51f68255290df5ca11e4cd20e07a88ad.gif"> 
 
