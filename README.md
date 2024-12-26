@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitadhikari58&label=Profile%20views&color=0e75b6&style=flat" alt="sumitadhikari58" /> </p>
 
-- 🔭 I’m currently working on **Hospital Management**
+- 🔭 I’m currently working on **Data Structures**
 
 - 🌱 I’m currently learning **CSS, JavaScript**
 
