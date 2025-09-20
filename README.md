@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Data Structures**
 
-- 🌱 I’m currently learning **CSS, JavaScript**
+- 🌱 I’m currently learning JavaScript**
 
 - 💬 Ask me about **Frontend**
 
