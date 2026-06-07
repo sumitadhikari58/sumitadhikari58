@@ -20,9 +20,8 @@ Right now I'm building a **production-grade AWS 3-tier URL shortener** — VPC, 
 I like understanding *why* things work, not just copying patterns. That extends to how I use AI tools too — I don't ship output I can't explain.
 
 - 🌍 Based in India
-- 🎓 B.Tech CSE, SRM IST — graduating 2025
+- 🎓 B.Tech CSE, SRM IST — graduating 2027
 - ☁️ 4× AWS & Oracle Cloud certified
-- 🏆 Selected for **JP Morgan Chase Code for Good** hiring program
 - 🔭 Currently focused on backend systems, cloud infrastructure, and placement prep (July 2026 cycle)
 
 ---
@@ -58,6 +57,7 @@ I like understanding *why* things work, not just copying patterns. That extends 
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Cloud & DevOps**
 
