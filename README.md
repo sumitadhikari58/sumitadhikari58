@@ -89,25 +89,6 @@ Production-grade URL shortener API on AWS — built from scratch, not from a tut
 
 ---
 
-
-### 📊 AQI Analysis
-Python-based exploratory data analysis on air quality index datasets.
-
-**Stack:** Python · Pandas · NumPy · Matplotlib
-
-- Trend analysis and visualisation across cities and seasons
-
----
-
-## Highlights
-
-- 🏆 **JP Morgan Chase Code for Good** — Selected for the hiring program; cleared Round 1 HackerRank OA
-- ⚔️ **HackWithInfy** — Participated in Infosys's national coding competition
-- 🥷 **HackTrax 2.0** — Built NeuralPath, an AI-powered career intelligence platform
-- 💻 **LeetCode** — ~100 problems solved, rating ~1400
-
----
-
 ## GitHub Stats
 
 <p align="left">
