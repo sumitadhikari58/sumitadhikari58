@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Sumit Adhikari <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/></h1>
 
-<h3 align="center">Final-Year CSE @ SRM IST &nbsp;·&nbsp; Cloud & Backend Engineering &nbsp;·&nbsp; AWS Certified</h3>
+<h3 align="center">Final-Year CSE @ SRM IST &nbsp;·&nbsp; Cloud & Backend Engineering &nbsp;·&nbsp; AWS Solutions Architect – Associate</h3>
 
 <p align="center">
   <a href="mailto:adhikarisumit58@gmail.com"><img src="https://img.shields.io/badge/Gmail-adhikarisumit58-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
@@ -13,16 +13,16 @@
 
 ## About Me
 
-I'm a final-year B.Tech CSE student at SRM Institute of Science and Technology (CGPA: **9.08**), working at the intersection of cloud infrastructure, backend development, and software engineering.
+I'm a final-year B.Tech CSE student at SRM Institute of Science and Technology (CGPA: **9.09**) with hands-on development experience across **Java, Python, and Node.js**. I've worked through every phase of the software development lifecycle (design, implementation, testing, and troubleshooting) on three self-driven projects, each taken from idea to deployment.
 
-Right now I'm building a **production-grade AWS 3-tier URL shortener** — VPC, ALB, ASG, ECR, RDS, ElastiCache, Terraform IaC, CI/CD, and CloudWatch — the kind of system you'd actually run in production, not just a tutorial project.
+My focus is on cloud infrastructure and backend engineering. My most recent build is a **3-tier URL shortener on AWS** (custom VPC, ALB, Auto Scaling, ECR, PostgreSQL), provisioned with Terraform and shipped through a GitHub Actions CI/CD pipeline.
 
 I like understanding *why* things work, not just copying patterns. That extends to how I use AI tools too — I don't ship output I can't explain.
 
-- 🌍 Based in India
-- 🎓 B.Tech CSE, SRM IST — graduating 2027
-- ☁️ 4× AWS & Oracle Cloud certified
-- 🔭 Currently focused on backend systems, cloud infrastructure, and placement prep (July 2026 cycle)
+- 🌍 Based in Chennai, India
+- 🎓 B.Tech CSE, SRM IST (2023–2027)
+- ☁️ 5× AWS & Oracle Cloud certified
+- 🔭 Currently focused on backend systems, cloud infrastructure, and GenAI on the cloud
 
 ---
 
@@ -30,11 +30,11 @@ I like understanding *why* things work, not just copying patterns. That extends 
 
 | Certification | Issuer |
 |---|---|
-| AWS Solutions Architect – Associate (SAA-C03) | Amazon Web Services |
+| AWS Certified Solutions Architect – Associate (SAA-C03) | Amazon Web Services |
 | AWS Certified Cloud Practitioner | Amazon Web Services |
 | AWS Certified AI Practitioner | Amazon Web Services |
 | Oracle Cloud Infrastructure AI Foundations | Oracle |
-| Oracle Cloud Infrastructure Generative AI Professional | Oracle |
+| Oracle Cloud Infrastructure 2025 Certified Generative AI Professional | Oracle |
 
 ---
 
@@ -48,44 +48,60 @@ I like understanding *why* things work, not just copying patterns. That extends 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 **Web & Backend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-**Cloud & DevOps**
+**Cloud & DevOps** &nbsp;<sub>AWS: VPC · EC2 · ALB · Auto Scaling · RDS · S3 · CloudFront · ECR</sub>
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**Databases**
+**Databases** &nbsp;<sub>schema design · normalization · query writing</sub>
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Core Concepts**
+
+Software Development Life Cycle · Data Structures & Algorithms · OOP · System Design (basics)
 
 ---
 
 ## Featured Projects
 
-### 🔗 [AWS 3-Tier URL Shortener Infrastructure](https://github.com/sumitadhikari58/aws-3tier-infra)
-Production-grade URL shortener API on AWS — built from scratch, not from a tutorial.
+### 🔗 [AWS 3-Tier URL Shortener](https://github.com/sumitadhikari58/aws-3tier-infra) · 2026
+A URL shortener API deployed on AWS, which I designed, implemented, tested, and deployed end to end.
 
-**Stack:** VPC · Public/Private Subnets · ALB · ASG · EC2 · Docker · ECR · RDS PostgreSQL · ElastiCache Redis · Terraform · GitHub Actions CI/CD · CloudWatch
+**Stack:** Node.js · Docker · Terraform · AWS VPC · EC2 · ALB · ASG · ECR · PostgreSQL · GitHub Actions
 
-- Custom VPC (10.0.0.0/16) across two AZs with Bastion Host, NAT Gateway, and private subnet isolation
-- Express API containerised with Docker, image pushed to ECR, deployed via Launch Template + ASG (auto-scales at 70% CPU)
-- Full IaC with Terraform; automated deployments via GitHub Actions
+- Custom VPC across two availability zones with public/private subnet isolation; diagnosed and fixed connectivity and configuration issues along the way
+- Containerised the app with Docker, pushed images to ECR, and ran it behind an ALB with an Auto Scaling Group
+- Automated build, release, and deployment with Terraform and a GitHub Actions CI/CD pipeline
+- Applied least-privilege IAM roles throughout
+
+### 📋 JobTrackr
+A full-stack job application tracker for managing applications across defined stages.
+
+**Stack:** React · Node.js · Express · MySQL · JWT
+
+- React frontend, Node.js/Express backend, and MySQL database, built end to end
+- Normalized MySQL schema, with JWT-based authentication and bcrypt password hashing
+
+### 🏥 Hospital Management System · 2024
+A team-built, multi-module desktop application covering patient records, room allocation, staff management, and discharge workflows.
+
+**Stack:** Java · Java Swing · MySQL · JDBC
+
+- Worked with the team across the full development lifecycle
+- Designed the relational schema and built authentication and session handling using JDBC
 
 ---
 
@@ -104,6 +120,6 @@ Production-grade URL shortener API on AWS — built from scratch, not from a tut
 ---
 
 <p align="center">
-  <i>Open to full-time SDE roles and cloud/backend internships. July 2026 placement cycle.</i><br/>
+  <i>Open to software engineering roles in cloud, backend, and AI.</i><br/>
   <a href="mailto:adhikarisumit58@gmail.com">adhikarisumit58@gmail.com</a>
 </p>
