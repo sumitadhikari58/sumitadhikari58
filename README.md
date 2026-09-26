@@ -87,7 +87,7 @@ A URL shortener API deployed on AWS, which I designed, implemented, tested, and 
 - Automated build, release, and deployment with Terraform and a GitHub Actions CI/CD pipeline
 - Applied least-privilege IAM roles throughout
 
-### 📋 JobTrackr
+### 📋 [JobTrackr](https://github.com/sumitadhikari58/Job-Tracker)
 A full-stack job application tracker for managing applications across defined stages.
 
 **Stack:** React · Node.js · Express · MySQL · JWT
@@ -95,7 +95,7 @@ A full-stack job application tracker for managing applications across defined st
 - React frontend, Node.js/Express backend, and MySQL database, built end to end
 - Normalized MySQL schema, with JWT-based authentication and bcrypt password hashing
 
-### 🏥 Hospital Management System · 2024
+### 🏥 [Hospital Management System](https://github.com/sumitadhikari58/Hospital-management-) · 2024
 A team-built, multi-module desktop application covering patient records, room allocation, staff management, and discharge workflows.
 
 **Stack:** Java · Java Swing · MySQL · JDBC
